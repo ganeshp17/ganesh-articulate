@@ -1,0 +1,8 @@
+---
+applications:
+- name: articulate
+  path: target/articulate-0.0.3-SNAPSHOT.jar
+  host: eitan-articulate
+  memory: 768M 
+  buildpack: java_buildpack
+
